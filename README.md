@@ -37,14 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Milind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milind2805&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind2805&layout=compact&theme=dark)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milind-kumar-singh-a84173382?utm_source=share_via&utm_content=profile&utm_medium=member_android)
