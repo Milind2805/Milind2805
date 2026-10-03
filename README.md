@@ -3,7 +3,7 @@
 🎓 B.Tech Civil Engineering @ MANIT Bhopal (Batch 2025–29)  
 🤖 ML/Data Science enthusiast building end-to-end projects  
 🏎️ Formula 1 fanatic  
-🎯 Targeting Analytics Consulting @ ZS Associates & Deloitte  
+🎯 Targeting Analytics Consulting 
 
 ---
 
