@@ -11,7 +11,7 @@
 
 | Project | Description | Tech | Live App |
 |---------|-------------|------|----------|
-| 🏎️ F1 Race Winner Predictor APP| Predicts F1 race winners using 5 seasons of real data | XGBoost, FastF1, Streamlit | [F1 Race Winner Predictor APP](https://f1-race-winner-predictor-74j3eweg5ymmbmtk5quijg.streamlit.app/)|
+| 🏎️ F1 Race Winner Predictor APP| Predicts F1 race winners using 5 seasons of real data | XGBoost, FastF1, Streamlit | [F1 Race Winner Predictor APP](https://f1-race-winner-predictor-app-fronte.vercel.app/) |
 | ₿ BTC Price Predictor | Predicts Bitcoin price using LSTM neural networks | TensorFlow, LSTM, yfinance | [BTC Price Predictor](https://btc-price-predictor-sirufrwelrwqfbzebwrhbb.streamlit.app/) |
 | ❤️ Heart Disease Predictor | Predicts heart disease risk from clinical features | Scikit-learn, Streamlit | [Heart Disease Predictor](https://heart-disease-app-nuv9kawujxuanivkzpvo9z.streamlit.app/) |
 | 📧 Spam Classifier | Classifies emails as spam or ham | Naive Bayes, Streamlit | [Spam Email Classifier](https://spam-classifier-app-zmwmvfgonhjbcnrnvc3xqk.streamlit.app/) |
