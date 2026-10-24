@@ -20,7 +20,7 @@
 ## 📈 Analytics projects
 
 - **[India Infrastructure Overruns](https://github.com/Milind2805/India-Infra-Overruns_Analysis)**: SQL + Power BI analysis of central sector project cost and time overruns from MoSPI data
-- **[F1 Driver vs. Car](https://github.com/Milind2805/Driver_vs_Car_Performance_analysis)**: five multi-table SQL analyses on 1950–2024 Formula 1 data (CTEs, window functions, hypothesis testing)
+- **[Olist Customer Retention Analysis](https://github.com/Milind2805/olist-retention-analysis)**: five multi-table SQL analyses on 1950–2024 Formula 1 data (CTEs, window functions, hypothesis testing)
 - **[Data Professional Survey Dashboard](https://github.com/Milind2805/Data-Professional-Survey-Dashboard)**: BI dashboard on survey data
 
 <details>
