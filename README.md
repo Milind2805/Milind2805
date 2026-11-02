@@ -44,7 +44,7 @@
 
 ## 🧩 Problem solving
 
-LeetCode: 300+ problems solved in C++ · contest rating 1,597 
+LeetCode: 300+ problems solved in C++ · Max Contest Rating 1,670 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milind-kumar-singh-a84173382?utm_source=share_via&utm_content=profile&utm_medium=member_android)
