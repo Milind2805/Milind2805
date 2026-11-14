@@ -1,6 +1,6 @@
 # Hi, I'm Milind 👋
 
-- 🎓 B.Tech Civil Engineering @ MANIT Bhopal (2025–29)
+- 🎓 B.Tech Civil Engineering at MANIT Bhopal (2025–29)
 - 🤖 I build and deploy end-to-end ML projects across computer vision, NLP and LLM retrieval, and I care about evaluating them honestly
 - 📊 Comfortable with SQL, Power BI and Tableau for analytics work
 - 🎯 Open to **ML / data science / data analyst internships**
@@ -15,7 +15,7 @@
 | **BidSense** | Question answering over real e-procurement tender PDFs (including scanned pages) with hybrid retrieval and a 16-question eval set | Auto-scored answers improved from 8/16 to 13/16 correct with 0 wrong via top-10 retrieval, neighbouring chunks and query rewriting | [Code](https://github.com/Milind2805/Tender_RAG) . [Live Demo](https://tenderrag-kfh9jgdadjg9jgyasb6dtz.streamlit.app/) |
 | **CrackSense** | EfficientNet-B0 crack classifier on SDNET2018, plus a U-Net that measures crack width | Classifier test PR-AUC 0.89 (split by source photo to avoid leakage); U-Net F1 0.82; documented where it fails on unseen surfaces and wide cracks | [Code](https://github.com/Milind2805/crack-detection-sdnet) · [Live demo](https://crack-detection-sdnet-5s6om7brys8vlu2ywnmvbr.streamlit.app) |
 | **ReviewPulse** | Fine-tuned DistilBERT for 3-class sentiment on ~48k reviews | Macro F1 0.73 vs 0.68 for TF-IDF + LogReg baseline; calibrated with temperature scaling; error analysis included | [Code](https://github.com/Milind2805/clothing-review-sentiment) · [Live app](https://clothing-review-sentiment-vbmtdxdk4tbmnskqvahtgp.streamlit.app) · [Model](https://huggingface.co/MilindSingh316/distilbert-clothing-review-sentiment) |
-| **ApexPredict** | XGBoost + SHAP, with a race simulator and Monte Carlo season projections, served by a FastAPI backend (Render) and a separate frontend (Vercel) | Live standings from the Jolpica API | [Code](https://github.com/Milind2805/f1-race-winner-predictor-app) · [Live app](https://f1-race-winner-predictor-app-fronte.vercel.app) |
+| **ApexPredict** | XGBoost + SHAP, with a race simulator and Monte Carlo season projections, served by a FastAPI backend (Render) and a separate frontend (Vercel) | Live F1 World Championship standings from the Jolpica API and Auto fetching of weather and next race data | [Code](https://github.com/Milind2805/f1-race-winner-predictor-app) · [Live app](https://f1-race-winner-predictor-app-fronte.vercel.app) |
 
 ## 📈 Analytics projects
 
