@@ -21,12 +21,12 @@
 
 - **[India Infrastructure Overruns](https://github.com/Milind2805/India-Infra-Overruns_Analysis)**: SQL + Power BI analysis of central sector project cost and time overruns from MoSPI data
 - **[Olist Customer Retention Analysis](https://github.com/Milind2805/olist-retention-analysis)**: An end-to-end analytics project framed as a consulting case, using the public Olist dataset (2016-2018). It covers data cleaning, cohort analysis and a Power BI dashboard, and ends with a sized, evidence-backed recommendation.
-- **[Data Professional Survey Dashboard](https://github.com/Milind2805/Data-Professional-Survey-Dashboard)**: BI dashboard on survey data
-
+- 
 <details>
 <summary>Earlier projects</summary>
 
 - [BTC Price Predictor](https://github.com/Milind2805/btc-price-predictor): LSTM on 2018–2024 data
+- [Data Professional Survey Dashboard](https://github.com/Milind2805/Data-Professional-Survey-Dashboard): BI dashboard on survey data
 - [Heart Disease Predictor](https://github.com/Milind2805/heart-disease-streamlit)
 - [Spam Classifier](https://github.com/Milind2805/spam-classifier-streamlit)
 
